@@ -3,8 +3,7 @@
 - ⚙️ I'm Currently learning Python and plan to learn javascript, C# and C++ !!
 - 🌱 I plan to study  Computer Science Degree in College, i'm currently an undergrad
 - 💞️ I’m looking to collaborate on anything interesting and fun😁
-- 📫 How to reach me: On my email it's kamdini01@outlook.com and on discord kamz_is
-- 😄 Pronouns: code/program
+- 📫 How to reach me: On my email <kamdini01@outlook.com> and on discord <kamz_is>
 - ⚡ Fun fact: I love olives
 
 <!---
