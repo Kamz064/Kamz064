@@ -55,7 +55,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kamz064&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=false" alt="ovi" width="410"></p>
 <br><br><br><br><br>
 <hr>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30"><b>&nbsp;Git profile Trophies soon..(url)</b></p><br>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30"><b>&nbsp;Git profile Trophies soon..</b></p><br>
 <p align="center" margin="200" height="500">
 <img src="https://raw.githubusercontent.com/unjs/website/fe51311e828fe1a2ce6ecc8ebffa72f7190d44f8/public/assets/logos/serve-placeholder.svg">
 <img src="https://raw.githubusercontent.com/unjs/website/fe51311e828fe1a2ce6ecc8ebffa72f7190d44f8/public/assets/logos/serve-placeholder.svg">
